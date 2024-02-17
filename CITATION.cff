@@ -1,0 +1,16 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Jupyter Notebook
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Montesinos Capacete
+    name-suffix: Sr.
+    given-names: Daniel
+repository-code: 'https://github.com/SrMontesinos01/Complex-Network-Project'
+license: MIT
+date-released: '2024-02-17'
